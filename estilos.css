@@ -1,0 +1,59 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+/*REGISTRO*/
+.inpname{
+	height: 40px;
+	width: 50%;
+	border: none;
+	border-bottom: 3px solid gray;
+	margin-left: 330px;
+	margin-top: 15px;
+	border-left:  3px solid gray;
+}
+.btn1{  
+	width: 20%;
+	height: 25px;
+    background: #393e46;
+	color: white;
+	border-radius: 5px;
+	cursor: pointer;
+	border: 2px solid #222831;
+	margin-left: 520px;
+	margin-top: 15px;
+	font-size: 16px;
+	text-align: center;
+}
+/*MODIFICACIONES*/
+.mth3{
+	width: 0px;
+}
+.mth1,.mth2,.mth3,.mth4{
+	height: 40px;
+	width: 150px;
+	border: none;
+	border-bottom: 3px solid gray;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 17px;
+}
+.mth3{
+	width: 100px;
+}
+td{
+	background: #f4f9f9;
+	height: 50px;
+	text-align: center;
+}
+.btnedit{
+	color: white;
+	background: #393e46;
+	border: 2px solid #222831;
+	border-radius: 5px;
+	width: 60%;
+	cursor: pointer;
+	height: 25px;
+	font-size: 16px;
+}
